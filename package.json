@@ -1,6 +1,6 @@
 {
   "name": "structur",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of structural solvers for buildings.",
   "main": "index.js",
   "scripts": {
